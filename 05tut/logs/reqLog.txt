@@ -1,0 +1,9 @@
+2023May		14:05:18	f7bfdb81-df09-4126-90b6-1e00bd86fecb	/new-page	GET
+2023May		14:05:18	c84b0c95-7847-49d0-bcb8-982743f87f28	/css/style.css	GET
+2023May		14:05:18	5c2b7497-897c-4a31-b10a-f868db838ce0	/img/img1.png	GET
+2023May		14:06:50	cbb0e548-45e1-41c6-9a26-757217a6d230	/new-page	GET
+2023May		14:07:27	ba316e67-0ec0-4517-aa15-e59dc7562790	/new-page	GET
+2023May		14:07:27	2b26dd24-82ef-4e33-9c56-a1727cc66fab	/css/style.css	GET
+2023May		14:07:27	085431d5-6128-4333-8634-4d73a7bf83eb	/img/img1.png	GET
+2023May		14:08:02	3d1078c5-3d46-4fbf-9a01-70d346265289	/index	GET
+2023May		14:08:02	162e89c4-e7c4-4530-895a-40203305c0ba	/css/style.css	GET

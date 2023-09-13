@@ -1,0 +1,10 @@
+npm i -g nodemon --save-dev
+(Install nodemon module globally)
+
+npm i nodemon -D (Add nodemon as Dev dependency)
+
+sample json
+{
+  "user":"Abhishek",
+  "pwd":"@12789SW"
+}
